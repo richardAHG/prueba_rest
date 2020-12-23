@@ -1,0 +1,7 @@
+/vendor
+/runtime
+/assets
+/*.lock
+/files
+/modules/v1/files
+/media
