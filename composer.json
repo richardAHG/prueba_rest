@@ -3,12 +3,9 @@
     "description": "pruebas rest",
     "type": "project",
     "require": {
-        "yiisoft/yii2": "^2.0",
-        "enmodel/iwasi-library-rest": "^v1.0.0",
-        "phpoffice/phpspreadsheet": "^1.12",
-        "phpmailer/phpmailer": "^6.2"
+        "yiisoft/yii2": "^2.0"
     },
     "require-dev": {
         "yiisoft/yii2-gii": "^2.2"
-    },
+    }
 }
